@@ -4,7 +4,7 @@ Dice Duel is a simple browser-based dice game where two players take turns rolli
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://dice-duel.pages.dev/)
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
